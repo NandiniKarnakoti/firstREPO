@@ -1,0 +1,89 @@
+#div1{
+    background-image:linear-gradient(to right,violet,purple,blue);
+    width: 95vw;
+    height: 15vh;
+    margin-left: 2vw;
+    margin-top: 3vh;
+}
+#div2{
+    width: 25vw;
+    height: 15vh;
+    position: relative;
+    bottom: 20vh;
+}
+
+#tag1{
+    position: relative;
+    left: 34vw;
+    bottom: 10vh;
+    font-size: 40px; 
+     
+}
+.samediv{
+    width: 12vw;
+    height: 30vh;
+    text-align: center;
+}
+.c1{
+    background-color: dodgerblue;
+    position: absolute;
+    left: 13vw;
+    bottom: 20vh;
+}
+.c3{
+    background-color: rgb(243, 55, 55) ;
+    position: absolute;
+    left: 31vw;
+    bottom: 26vh;
+
+}
+.c5{
+    background-color: rgb(58, 158, 58);
+    position: absolute;
+    left: 53vw;
+    bottom: 20vh;
+    
+}
+.c7{
+    background-color: #f17006;
+    position: absolute;
+    bottom: 26vh;
+    left: 71vw;
+}
+.c2{                    
+    background-color: white ;
+    box-shadow: -1px 4px 8px 0 rgb(221, 212, 212);
+    position: absolute;
+    bottom: 8vh;
+    left: 11vw;
+}
+.c4{
+   background-color: white;
+   box-shadow: -1px 4px 8px 0 rgb(221, 212, 212);
+    position: absolute;
+    bottom: 12vh;
+    left: 33vw; 
+   
+}
+.c6{
+    background-color: white;
+    box-shadow: -1px 4px 8px 0 rgb(221, 212, 212);
+    position: absolute;
+    bottom: 5vh;
+    left: 51vw; 
+}
+.c8{
+    background-color: white;
+    box-shadow: -1px 4px 8px 0 rgb(221, 212, 212);
+    position: absolute;
+    bottom: 12vh;
+    left: 73vw; 
+}
+p{
+    font-size: 20px;
+    font-family: cochin;
+}
+img{
+    width: 60px;
+    height: 55px;
+}
